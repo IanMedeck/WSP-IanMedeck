@@ -1,0 +1,16 @@
+body{
+	max-width: 900px;
+	margin: 0 auto;
+	background: grey;
+}
+
+h1, h2{
+	text-align: center;
+	color: navy;
+}
+
+section{
+	background: white;
+	padding: 10px;
+	border: 1px solid black;
+}
